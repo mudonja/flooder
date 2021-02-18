@@ -1,3 +1,6 @@
+For educational purposes only.
+I am not responsible for any damage caused by this program.
+
 Please do not judge me on sloppy coding and bad practices...
 This tool was created in a short period of time and was just made to do a specific task
 I wanted to sit and clean it up a bit, organize some functions in a better way
